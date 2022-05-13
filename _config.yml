@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+title: Jihyeug's hompage
+url: 'https://jihyeugjang.github.io'
+baseurl: '/'
+
+author:
+name: Jihyeug Jang
+email: 4242ab@gmail.com
+github_username: JihyeugJang
