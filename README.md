@@ -7,9 +7,9 @@ CV: [link](CV.pdf)
 
 # Papers
 ## Preprints
-- Negative moments of orthogonal polynomials (with Jihyeug Jang, Donghyun Kim, Jang Soo Kim, Minho Song), [arXiv:2201.11344](https://arxiv.org/abs/2201.11344)
+- Negative moments of orthogonal polynomials (with Donghyun Kim, Jang Soo Kim, Minho Song, U-keun Song), [arXiv:2201.11344](https://arxiv.org/abs/2201.11344)
 - A combinatorial model for the transition matrix between the Specht and web bases (with Byung-Hak Hwang, Jaeseong Oh), [arXiv:2110.08790](https://arxiv.org/abs/2110.08790)
-- Refined canonical stable Grothendieck polynomials and their duals (with Byung-Hak Hwang, Jihyeug Jang, Jang Soo Kim, Minho Song), [arXiv:2104.04251](https://arxiv.org/abs/2104.04251)
+- Refined canonical stable Grothendieck polynomials and their duals (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song), [arXiv:2104.04251](https://arxiv.org/abs/2104.04251)
 ## Published
 - Volumes of flow polytopes related to caracol graphs (with Jang Soo Kim), The Electronic Journal of Combinatorics, 2020, [arXiv:1911.10703](https://arxiv.org/abs/1911.10703) 
 
