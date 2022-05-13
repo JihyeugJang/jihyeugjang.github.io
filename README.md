@@ -15,5 +15,5 @@ CV: [link](CV.pdf)
 
 # Education
  - Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2017 - present
-  - Advisor : [Jang Soo Kim](https://jangsookim.github.io)
+   - Advisor : [Jang Soo Kim](https://jangsookim.github.io)
  - B.S. Mathematics, Sungkyunkwan University, Mar. 2012 - Feb. 2017
