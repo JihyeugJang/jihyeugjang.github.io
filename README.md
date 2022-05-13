@@ -2,7 +2,7 @@
 I'm a graduate student at Sungkyunkwan University.
 
 E-mail: 4242ab@gmail.com
-[CV](CV.pdf)
+CV: [link](CV.pdf)
 
 # Papers
 ## Preprints
