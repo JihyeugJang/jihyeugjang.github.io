@@ -1,6 +1,6 @@
 # Jihyeug Jang
 I'm a graduate student at Sungkyunkwan University.
-I'm interested in Algebraic and Enumerative combinatorics.
+I am interested in algebraic and enumerative combinatorics.
 
 E-mail: 4242ab@gmail.com
 
