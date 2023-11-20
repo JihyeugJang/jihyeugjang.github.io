@@ -21,7 +21,7 @@ CV: [link](CV.pdf)
 [Forum of Mathematics, Sigma, (2023)](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/negative-moments-of-orthogonal-polynomials/C3823C72FBAA0433573CD652A9B8E669), 
 [arXiv:2201.11344](https://arxiv.org/abs/2201.11344)
 - Volumes of flow polytopes related to caracol graphs (with Jang Soo Kim), 
-[Electronic J. Combin., (2020)](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v27i4p21), 
+[Electronic Journal of Combinatorics, (2020)](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v27i4p21), 
 [arXiv:1911.10703](https://arxiv.org/abs/1911.10703) 
 
 # Education
