@@ -7,7 +7,7 @@ E-mail: 4242ab@gmail.com
 CV: [link](CV.pdf)
 
 # Papers
-## Preprints
+## Submitted
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees, [arXiv:2309.02977](https://arxiv.org/abs/2309.02977)
 - (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, [arXiv:2104.04251](https://arxiv.org/abs/2104.04251)
