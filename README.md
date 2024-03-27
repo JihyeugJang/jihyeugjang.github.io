@@ -1,8 +1,8 @@
 # Jihyeug Jang
-I'm a graduate student at Sungkyunkwan University.
+I'm a post-doc at Sungkyunkwan University.
 I am interested in algebraic and enumerative combinatorics.
 
-E-mail: 4242ab@gmail.com
+E-mail: ~~4242ab@gmail.com~~ jihyeugjang@gmail.com
 
 CV: [link](CV.pdf)
 
