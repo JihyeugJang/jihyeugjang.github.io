@@ -10,7 +10,8 @@ CV: [link](CV.pdf)
 ## Submitted
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees, [arXiv:2309.02977](https://arxiv.org/abs/2309.02977)
-- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, [arXiv:2104.04251](https://arxiv.org/abs/2104.04251)
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1, to appear in Advances in Mathematics, [arXiv:2104.04251](https://arxiv.org/abs/2104.04251)
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2, [arXiv:2404.02483](https://arxiv.org/abs/2404.02483)
 ## Published
 - (with Byung-Hak Hwang, Jaeseong Oh) A combinatorial model for the transition matrix between the Specht and web bases,
 [Forum of Mathematics, Sigma, (2023)](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/combinatorial-model-for-the-transition-matrix-between-the-specht-and-operatorname-sl2web-bases/1E5B0654E82442C936CD9DB00D333715), 
