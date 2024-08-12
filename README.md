@@ -8,6 +8,7 @@ CV: [link](CV.pdf)
 
 # Papers
 ## Submitted
+- (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle, [arXiv:2407.07508](https://arxiv.org/abs/2407.07508)
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees, [arXiv:2309.02977](https://arxiv.org/abs/2309.02977)
 - (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2, [arXiv:2404.02483](https://arxiv.org/abs/2404.02483)
@@ -29,6 +30,6 @@ CV: [link](CV.pdf)
 [arXiv:1911.10703](https://arxiv.org/abs/1911.10703) 
 
 # Education
- - Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2017 - present
+ - Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2017 - Feb. 2024
    - Advisor : [Jang Soo Kim](https://jangsookim.github.io)
  - B.S. Mathematics, Sungkyunkwan University, Mar. 2012 - Feb. 2017
