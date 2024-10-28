@@ -8,6 +8,7 @@ CV: [link](CV.pdf)
 
 # Papers
 ## Submitted
+- (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableaux uncrowding and tableau switching [arXiv:2410.18343](https://arxiv.org/abs/2410.18343)
 - (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle, [arXiv:2407.07508](https://arxiv.org/abs/2407.07508)
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees, [arXiv:2309.02977](https://arxiv.org/abs/2309.02977)
