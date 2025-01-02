@@ -1,8 +1,9 @@
 # Jihyeug Jang
-I'm a post-doc at Sungkyunkwan University.
-I am interested in algebraic and enumerative combinatorics.
+I am currently a post-doctoral researcher at University of Geneva, working under the mentorship of [Jehanne Dousse](https://www.unige.ch/~doussej/). 
+I completed my Ph.D. at Sungkyunkwan University under the supervision of [Jang Soo Kim](https://jangsookim.github.io/). 
+My research interests lie in algebraic combinatorics and enumerative combinatorics.
 
-E-mail: ~~4242ab@gmail.com~~ jihyeugjang@gmail.com
+E-mail: jihyeugjang at gmail dot com
 
 CV: [link](CV.pdf)
 
