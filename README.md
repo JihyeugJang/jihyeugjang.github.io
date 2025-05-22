@@ -5,7 +5,7 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
 
 E-mail: jihyeugjang at gmail dot com
 
-CV: [link](CV.pdf)
+CV: [link](CV/CV.pdf)
 
 # Papers
 ## Submitted
