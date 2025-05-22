@@ -11,8 +11,8 @@ CV: [link](CV.pdf)
 ## Submitted
 - (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableaux uncrowding and tableau switching [arXiv:2410.18343](https://arxiv.org/abs/2410.18343)
 - (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle, [arXiv:2407.07508](https://arxiv.org/abs/2407.07508)
-- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2, [arXiv:2404.02483](https://arxiv.org/abs/2404.02483)
 ## Published
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2, [European Journal of Combinatorics, (2025)](https://www.sciencedirect.com/science/article/pii/S0195669825000496), [arXiv:2404.02483](https://arxiv.org/abs/2404.02483)
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays, [Linear Algebra and its Applications, (2025)](https://www.sciencedirect.com/science/article/pii/S0024379525000527?dgcid=coauthor)
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees, [Linear and Multilinear Algebra, (2024)](https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2435403?scroll=top&needAccess=true), [arXiv:2309.02977](https://arxiv.org/abs/2309.02977)
 - (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1, 
