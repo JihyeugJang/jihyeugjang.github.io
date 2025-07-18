@@ -11,7 +11,7 @@ CV: [link](CV/CV.pdf)
 ## Submitted
 - (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableaux uncrowding and tableau switching [arXiv:2410.18343](https://arxiv.org/abs/2410.18343)
 - (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle, [arXiv:2407.07508](https://arxiv.org/abs/2407.07508)
-- (with Jehanne Dousse, Fr\'{e}d\'{e}ric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [arXiv:2507.13239v1](https://arxiv.org/abs/2507.13239v1)
+- (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [arXiv:2507.13239v1](https://arxiv.org/abs/2507.13239v1)
 
 
 ## Published
