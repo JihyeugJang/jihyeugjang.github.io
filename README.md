@@ -11,6 +11,9 @@ CV: [link](CV/CV.pdf)
 ## Submitted
 - (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableaux uncrowding and tableau switching [arXiv:2410.18343](https://arxiv.org/abs/2410.18343)
 - (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle, [arXiv:2407.07508](https://arxiv.org/abs/2407.07508)
+- (with Jehanne Dousse, Fr\'ed\'eric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [arXiv:2507.13239v1](https://arxiv.org/abs/2507.13239v1)
+
+
 ## Published
 - (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2, [European Journal of Combinatorics, (2025)](https://www.sciencedirect.com/science/article/pii/S0195669825000496), [arXiv:2404.02483](https://arxiv.org/abs/2404.02483)
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays, [Linear Algebra and its Applications, (2025)](https://www.sciencedirect.com/science/article/pii/S0024379525000527?dgcid=coauthor)
