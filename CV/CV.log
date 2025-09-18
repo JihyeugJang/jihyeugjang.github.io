@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.5)  2 AUG 2025 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.5)  18 SEP 2025 20:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -367,8 +367,8 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9188 strings out of 478268
- 141840 string characters out of 5846347
+ 9189 strings out of 478268
+ 141847 string characters out of 5846347
  438833 words of memory out of 5000000
  27234 multiletter control sequences out of 15000+600000
  500169 words of font info for 73 fonts, out of 8000000 for 9000
@@ -381,10 +381,10 @@ live/2022/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (3 pages, 90479 bytes).
+Output written on CV.pdf (3 pages, 90605 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 500000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
