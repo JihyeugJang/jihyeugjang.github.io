@@ -11,6 +11,7 @@ CV: [link](CV/CV.pdf)
 ## Preprints
 - (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableaux uncrowding and tableau switching [arXiv:2410.18343](https://arxiv.org/abs/2410.18343)
 - (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [arXiv:2507.13239v1](https://arxiv.org/abs/2507.13239v1)
+- (with Benedek Dombos) Grounded partitions of type $A^{(1)}_1$ at levels 1 and 2: bijections, affine crystal graphs, and partition identities [arXiv:2508.02664](https://arxiv.org/abs/2508.02664)
 
 
 ## Published
