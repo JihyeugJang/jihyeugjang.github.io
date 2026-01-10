@@ -15,8 +15,9 @@ CV: [link](CV/CV.pdf)
 
 ## Published
 - (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableau uncrowding and tableau switching
-[SIAM Journal on Discrete Mathematics, (2026)](https://epubs.siam.org/doi/full/10.1137/24M1708346)
-[arXiv:2410.18343](https://arxiv.org/abs/2410.18343)
+[SIAM Journal on Discrete Mathematics, (2026)](https://epubs.siam.org/doi/full/10.1137/24M1708346),
+[arXiv:2410.18343](https://arxiv.org/abs/2410.18343),
+[FPSAC2025](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/18.html)
 - (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle,
 [The Ramanujan Journal, (2025)](https://link.springer.com/article/10.1007/s11139-025-01223-2),
 [arXiv:2407.07508](https://arxiv.org/abs/2407.07508)
@@ -30,10 +31,12 @@ CV: [link](CV/CV.pdf)
 [arXiv:2309.02977](https://arxiv.org/abs/2309.02977)
 - (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1, 
 [Advances in Mathematics, (2024)](https://www.sciencedirect.com/science/article/pii/S0001870824001853?dgcid=author), 
-[arXiv:2104.04251](https://arxiv.org/abs/2104.04251)
+[arXiv:2104.04251](https://arxiv.org/abs/2104.04251),
+[FPSAC2023](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2023/31.html)
 - (with Byung-Hak Hwang, Jaeseong Oh) A combinatorial model for the transition matrix between the Specht and web bases,
 [Forum of Mathematics, Sigma, (2023)](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/combinatorial-model-for-the-transition-matrix-between-the-specht-and-operatorname-sl2web-bases/1E5B0654E82442C936CD9DB00D333715), 
-[arXiv:2110.08790](https://arxiv.org/abs/2110.08790)
+[arXiv:2110.08790](https://arxiv.org/abs/2110.08790),
+[FPSAC2022](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/34.html)
 - (with Sooyeong Kim, Minho Song) Kemeny’s constant and Wiener index on trees, 
 [Linear Algebra and its Applications, (2023)](https://www.sciencedirect.com/science/article/pii/S0024379523002124), 
 [arXiv:2209.11271](https://arxiv.org/abs/2209.11271)
