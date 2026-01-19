@@ -1,0 +1,55 @@
+#+title: Jihyeug Jang
+#+OPTIONS: title:t author:t date:t toc:nil num:nil timestamp:nil creator:nil
+#+SETUPFILE: /Users/jihyeug/Desktop/newbiemacs/nbm-user-settings/org-themes/src/gray/gray.theme
+
+
+I am currently a post-doctoral researcher at University of Geneva, working under the mentorship of [[https://www.unige.ch/~doussej/][Jehanne Dousse]].
+I completed my Ph.D. at Sungkyunkwan University under the supervision of [[https://jangsookim.github.io/][Jang Soo Kim]].
+My research interests lie in algebraic combinatorics and enumerative combinatorics.
+
+- E-mail: jihyeugjang at gmail dot com
+- CV: [[file:CV/CV.pdf][link]]
+
+* Papers
+** Preprints
+- (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [[https://arxiv.org/abs/2507.13239v1][arXiv:2507.13239v1]]
+- (with Benedek Dombos) Grounded partitions of type $A^{(1)}_1$ at levels 1 and 2: bijections, affine crystal graphs, and partition identities [[https://arxiv.org/abs/2508.02664][arXiv:2508.02664]]
+
+** Published
+- (with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableau uncrowding and tableau switching
+  - [[https://epubs.siam.org/doi/full/10.1137/24M1708346][SIAM Journal on Discrete Mathematics, (2026)]]
+  - [[https://arxiv.org/abs/2410.18343][arXiv:2410.18343]]
+  - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2025/18.html][FPSAC2025]]
+- (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle,
+  - [[https://link.springer.com/article/10.1007/s11139-025-01223-2][The Ramanujan Journal, (2025)]]
+  - [[https://arxiv.org/abs/2407.07508][arXiv:2407.07508]]
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2,
+  - [[https://www.sciencedirect.com/science/article/pii/S0195669825000496][European Journal of Combinatorics, (2025)]]
+  - [[https://arxiv.org/abs/2404.02483][arXiv:2404.02483]]
+- (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays,
+  - [[https://www.sciencedirect.com/science/article/pii/S0024379525000527?dgcid=coauthor][Linear Algebra and its Applications, (2025)]]
+- (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees,
+  - [[https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2435403?scroll=top&needAccess=true][Linear and Multilinear Algebra, (2024)]]
+  - [[https://arxiv.org/abs/2309.02977][arXiv:2309.02977]]
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1,
+  - [[https://www.sciencedirect.com/science/article/pii/S0001870824001853?dgcid=author][Advances in Mathematics, (2024)]]
+  - [[https://arxiv.org/abs/2104.04251][arXiv:2104.04251]]
+  - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2023/31.html][FPSAC2023]]
+- (with Byung-Hak Hwang, Jaeseong Oh) A combinatorial model for the transition matrix between the Specht and web bases,
+  - [[https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/combinatorial-model-for-the-transition-matrix-between-the-specht-and-operatorname-sl2web-bases/1E5B0654E82442C936CD9DB00D333715][Forum of Mathematics, Sigma, (2023)]]
+  - [[https://arxiv.org/abs/2110.08790][arXiv:2110.08790]]
+  - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/34.html][FPSAC2022]]
+- (with Sooyeong Kim, Minho Song) Kemeny’s constant and Wiener index on trees,
+  - [[https://www.sciencedirect.com/science/article/pii/S0024379523002124][Linear Algebra and its Applications, (2023)]]
+  - [[https://arxiv.org/abs/2209.11271][arXiv:2209.11271]]
+- (with Donghyun Kim, Jang Soo Kim, Minho Song, U-keun Song) Negative moments of orthogonal polynomials,
+  - [[https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/negative-moments-of-orthogonal-polynomials/C3823C72FBAA0433573CD652A9B8E669][Forum of Mathematics, Sigma, (2023)]]
+  - [[https://arxiv.org/abs/2201.11344][arXiv:2201.11344]]
+- (with Jang Soo Kim) Volumes of flow polytopes related to caracol graphs,
+  - [[https://www.combinatorics.org/ojs/index.php/eljc/article/view/v27i4p21][Electronic Journal of Combinatorics, (2020)]]
+  - [[https://arxiv.org/abs/1911.10703][arXiv:1911.10703]]
+
+* Education
+- Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2017 - Feb. 2024
+  - Advisor: [[https://jangsookim.github.io][Jang Soo Kim]]
+- B.S. Mathematics, Sungkyunkwan University, Mar. 2012 - Feb. 2017
