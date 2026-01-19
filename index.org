@@ -23,7 +23,7 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
 - (with Minho Song) Combinatorics of orthogonal polynomials on the unit circle,
   - [[https://link.springer.com/article/10.1007/s11139-025-01223-2][The Ramanujan Journal, (2025)]]
   - [[https://arxiv.org/abs/2407.07508][arXiv:2407.07508]]
-- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2,
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-Keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 2,
   - [[https://www.sciencedirect.com/science/article/pii/S0195669825000496][European Journal of Combinatorics, (2025)]]
   - [[https://arxiv.org/abs/2404.02483][arXiv:2404.02483]]
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays,
@@ -31,7 +31,7 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees,
   - [[https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2435403?scroll=top&needAccess=true][Linear and Multilinear Algebra, (2024)]]
   - [[https://arxiv.org/abs/2309.02977][arXiv:2309.02977]]
-- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1,
+- (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-Keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1,
   - [[https://www.sciencedirect.com/science/article/pii/S0001870824001853?dgcid=author][Advances in Mathematics, (2024)]]
   - [[https://arxiv.org/abs/2104.04251][arXiv:2104.04251]]
   - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2023/31.html][FPSAC2023]]
@@ -42,7 +42,7 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
 - (with Sooyeong Kim, Minho Song) Kemeny’s constant and Wiener index on trees,
   - [[https://www.sciencedirect.com/science/article/pii/S0024379523002124][Linear Algebra and its Applications, (2023)]]
   - [[https://arxiv.org/abs/2209.11271][arXiv:2209.11271]]
-- (with Donghyun Kim, Jang Soo Kim, Minho Song, U-keun Song) Negative moments of orthogonal polynomials,
+- (with Donghyun Kim, Jang Soo Kim, Minho Song, U-Keun Song) Negative moments of orthogonal polynomials,
   - [[https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/negative-moments-of-orthogonal-polynomials/C3823C72FBAA0433573CD652A9B8E669][Forum of Mathematics, Sigma, (2023)]]
   - [[https://arxiv.org/abs/2201.11344][arXiv:2201.11344]]
 - (with Jang Soo Kim) Volumes of flow polytopes related to caracol graphs,
