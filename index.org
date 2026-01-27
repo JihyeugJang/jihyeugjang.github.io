@@ -1,7 +1,8 @@
-#+title: Jihyeug Jang
-#+OPTIONS: title:t author:t date:t toc:nil num:nil timestamp:nil creator:nil
-#+SETUPFILE: /Users/jihyeug/Desktop/newbiemacs/nbm-user-settings/org-themes/src/gray/gray.theme
+#+title: Jihyeug Jang's homepage
+#+SETUPFILE: /Users/jihyeug/Desktop/newbiemacs/nbm-user-settings/org-themes/src/bigblow_inline/bigblow_inline.theme
+#+OPTIONS: title:t author:nil date:t toc:nil num:nil timestamp:nil creator:nil
 
+* Home
 
 I am currently a post-doctoral researcher at University of Geneva, working under the mentorship of [[https://www.unige.ch/~doussej/][Jehanne Dousse]].
 I completed my Ph.D. at Sungkyunkwan University under the supervision of [[https://jangsookim.github.io/][Jang Soo Kim]].
@@ -9,6 +10,11 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
 
 - E-mail: jihyeugjang at gmail dot com
 - CV: [[file:CV/CV.pdf][link]]
+
+** Education
+- Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2017 - Feb. 2024
+  - Advisor: [[https://jangsookim.github.io][Jang Soo Kim]]
+- B.S. Mathematics, Sungkyunkwan University, Mar. 2012 - Feb. 2017
 
 * Papers
 ** Preprints
@@ -49,7 +55,37 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
   - [[https://www.combinatorics.org/ojs/index.php/eljc/article/view/v27i4p21][Electronic Journal of Combinatorics, (2020)]]
   - [[https://arxiv.org/abs/1911.10703][arXiv:1911.10703]]
 
-* Education
-- Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2017 - Feb. 2024
-  - Advisor: [[https://jangsookim.github.io][Jang Soo Kim]]
-- B.S. Mathematics, Sungkyunkwan University, Mar. 2012 - Feb. 2017
+
+* Talks and posters
+** 2026
+- Grounded partitions of type \( A_1^{(1)} \) at levels \( 1 \) and \( 2 \), [[https://math.skku.edu/math/community/seminar.do?mode=view&articleNo=211885&article.offset=0&articleLimit=10][Special seminar]], Sungkyunkwan University, Korea, Jan 20, (2026)
+- Decompositions of integer powers via the Catalan and Motzkin arrays and odd-indexed Fibonacci numbers, [[https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/54444][Joint Mathematics Meetings 2026]], Washington, D.C., USA, Jan 4-7, (2026)
+** 2025
+- Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [[https://www.mat.univie.ac.at/~slc/wpapers/s94.html][SLC 94]], Bad Boll, Germany, Sep 14-17, (2025)
+- Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [[https://math.skku.edu/math/community/seminar.do?mode=view&articleNo=204004&article.offset=0&articleLimit=10][Special seminar]], Sungkyunkwan University, Korea, Aug 1, (2025)
+- A hidden symmetry of refined canonical stable Grothendieck polynomials (poster), [[https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/][FPSAC 2025]], Hokkaido Univerisy, Sapporo, Japan, Jul 21-25, (2025)
+** 2024
+- Combinatorics of the orthogonal polynomials on the unit circle, [[http://events.kias.re.kr/h/CombinatoricsProbability/?pageNo=5480][Workshop on Combinatorics and Probability]], Korea, Jun 27-28, (2024)
+- Combinatorial reciprocity for Riordan arrays, [[https://sites.google.com/view/csyr/1st?authuser=0][1st Combinatorics Seminar for Young Researchers]], Inha University, Korea, Jun 19, (2024)
+- Combinatorial reciprocity for Riordan arrays, [[https://www.riordanarray.org/][9th International Symposium on Riordan Arrays and Related Topics]], Howard University, USA, Jun 3-5, (2024)
+- Lattice on permutation tableaux, [[https://sites.google.com/ajou.ac.kr/tcseminar/][Topology and Combinatorics seminar at Ajou University]], Online, May 16, (2024)
+- A trim lattice on permutation tableaux, [[https://www.kms.or.kr/conference/2024_spring/][2024 KMS Spring Meeting]], Korea, Apr 18-20, (2024)
+** 2023
+- Refined canonical stable Grothendieck polynomials and their duals (poster), [[http://fpsac23.math.ucdavis.edu/][FPSAC 2023]], UC Davis, California, USA, Jul 17-21, (2023)
+- Volumes of flow polytopes related to caracol graphs, [[https://dgeco.math.cnrs.fr/][Séminaire DGeCo]], Sorbonne Université, France, Apr 18, (2023)
+- Negative moments of orthogonal polynomials, [[https://lipn.fr/~banderier/Seminaires/][Journée-séminaire de combinatoire]], Université Paris 13, France, Apr 11, (2023)
+- Negative moments of orthogonal polynomials (poster), [[https://events.unibo.it/combinatorics][89th Séminaire Lotharingien de Combinatoire and Brenti Fest]], Centro Residenziale Universitario di Bertinoro, Italy, Mar 26-29, (2023)
+- On sequences related to the pallet loading problem, [[https://swb.skku.edu/aorc/seminar.do?mode=view&articleNo=39837&article.offset=0&articleLimit=10][AORC Monthly Seminar]], Online, Jan 27, (2023)
+** 2022
+- On sequences related to the pallet loading problem, [[http://events.kias.re.kr/h/combinatorics/?pageNo=4839][The 26th KIAS Workshop on Combinatorics]], Shilla Stay Haeundae, Korea, Dec 20-22, (2022)
+- A combinatorial model for the transition matrix between the Specht and web bases, [[https://tscrim.github.io/pacs_en.html][Physical Algebra and Combinatorics Seminar]], Online, Aug 12, (2022)
+- A combinatorial model for the transition matrix between the Specht and web bases (poster), [[https://math.iisc.ac.in/fpsac2022/][FPSAC 2022]], Indian Institute of Science, Bangalore, India, Jul 18-22, (2022)
+** 2021
+- A combinatorial model for the transition matrix between the Specht and web bases, [[https://www.kias.re.kr/kias/activities/seminars/list.do?menuNo=404003&eventTy=&schoolsCd=C&centrspgmsCd=&pageIndex=1&sdate=2021-12-15&edate=2021-12-17&mjrcdnm=&searchCnd=1&searchWord=][One-day workshop on web bases]], Online, Dec 16, (2021)
+- Refined canonical stable Grothendieck polynomials and their duals, [[http://www.kkms.org/main/main][2021 Annual Meeting on the Kangwon-Kyungki Mathematical Society]], Korea, Jul 16, (2021)
+- Volumes of flow polytopes related to the caracol graphs, [[https://2021.canadam.math.ca/][CanaDAM 2021 – Online Meeting]], Online, May 25-28, (2021)
+- A permutation interpretation of the transition matrix between the polytabloid and web bases, [[https://www.kms.or.kr/meetings/spring2021/][2021 KMS Spring Meeting]], Online, Apr 29-30, (2021)
+** 2019
+- Computing volumes of flow polytopes using labeled Dyck paths, [[https://cw2019.combinatorics.kr/information][2019 Combinatorics Workshop]], Songdo, Incheon, Korea, Aug 13-15, (2019)
+- Computing volumes of flow polytopes using labeled Dyck paths, [[http://www.kkms.org/main/main][2019 Annual Meeting on the Kangwon-Kyungki Mathematical Society]], Daegu, Korea, Jun 28-30, (2019)
+- Combinatorial proof of two constant term identities, [[http://math.shinshu-u.ac.jp/~nu/html/workshop/20190115-shinshu/][Workshop on Algebraic and Enumerative Combinatorics]], Shinshu University, Japan, Jan 15-17, (2019)
