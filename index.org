@@ -16,7 +16,7 @@ My research interests lie in algebraic combinatorics and enumerative combinatori
   - Advisor: [[https://jangsookim.github.io][Jang Soo Kim]]
 - B.S. Mathematics, Sungkyunkwan University, Mar. 2012 - Feb. 2017
 
-* Papers
+* Publication
 ** Preprints
 - (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches, [[https://arxiv.org/abs/2507.13239v1][arXiv:2507.13239v1]]
 - (with Benedek Dombos) Grounded partitions of type $A^{(1)}_1$ at levels 1 and 2: bijections, affine crystal graphs, and partition identities [[https://arxiv.org/abs/2508.02664][arXiv:2508.02664]]
