@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.16)  6 MAR 2026 09:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.16)  13 MAR 2026 11:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -378,7 +378,7 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 197.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 199.
  [2] [3] [4]
 (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
@@ -391,7 +391,7 @@ Here is how much of TeX's memory you used:
  27522 multiletter control sequences out of 15000+600000
  501744 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,64p,362b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,64p,362b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
 live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
@@ -400,10 +400,10 @@ texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2022/te
 xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 101130 bytes).
+Output written on CV.pdf (4 pages, 101293 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
