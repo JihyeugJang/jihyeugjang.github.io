@@ -17,7 +17,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 - Partition theory
 - Riordan arrays
 
-* Publication
+* Papers
 ** Preprints
 - (with Jehanne Dousse) Andrews--Gordon type identities with parity restrictions through particle motion
   - [[https://arxiv.org/abs/2603.05300][arXiv:2603.05300]]
