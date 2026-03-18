@@ -225,6 +225,7 @@ if (typeof HS_STARTUP_FOLDED === 'undefined') {    var HS_STARTUP_FOLDED = false
 !function(a,b){"use strict";function c(c,g){var h=this;h.$el=a(c),h.el=c,h.id=e++,h.$window=a(b),h.$document=a(document),h.$el.bind("destroyed",a.proxy(h.teardown,h)),h.$clonedHeader=null,h.$originalHeader=null,h.isSticky=!1,h.hasBeenSticky=!1,h.leftOffset=null,h.topOffset=null,h.init=function(){h.$el.each(function(){var b=a(this);b.css("padding",0),h.$originalHeader=a("thead:first",this),h.$clonedHeader=h.$originalHeader.clone(),b.trigger("clonedHeader."+d,[h.$clonedHeader]),h.$clonedHeader.addClass("tableFloatingHeader"),h.$clonedHeader.css("display","none"),h.$originalHeader.addClass("tableFloatingHeaderOriginal"),h.$originalHeader.after(h.$clonedHeader),h.$printStyle=a('<style type="text/css" media="print">.tableFloatingHeader{display:none !important;}.tableFloatingHeaderOriginal{position:static !important;}</style>'),a("head").append(h.$printStyle)}),h.setOptions(g),h.updateWidth(),h.toggleHeaders(),h.bind()},h.destroy=function(){h.$el.unbind("destroyed",h.teardown),h.teardown()},h.teardown=function(){h.isSticky&&h.$originalHeader.css("position","static"),a.removeData(h.el,"plugin_"+d),h.unbind(),h.$clonedHeader.remove(),h.$originalHeader.removeClass("tableFloatingHeaderOriginal"),h.$originalHeader.css("visibility","visible"),h.$printStyle.remove(),h.el=null,h.$el=null},h.bind=function(){h.$scrollableArea.on("scroll."+d,h.toggleHeaders),h.isWindowScrolling||(h.$window.on("scroll."+d+h.id,h.setPositionValues),h.$window.on("resize."+d+h.id,h.toggleHeaders)),h.$scrollableArea.on("resize."+d,h.toggleHeaders),h.$scrollableArea.on("resize."+d,h.updateWidth)},h.unbind=function(){h.$scrollableArea.off("."+d,h.toggleHeaders),h.isWindowScrolling||(h.$window.off("."+d+h.id,h.setPositionValues),h.$window.off("."+d+h.id,h.toggleHeaders)),h.$scrollableArea.off("."+d,h.updateWidth)},h.toggleHeaders=function(){h.$el&&h.$el.each(function(){var b,c=a(this),d=h.isWindowScrolling?isNaN(h.options.fixedOffset)?h.options.fixedOffset.outerHeight():h.options.fixedOffset:h.$scrollableArea.offset().top+(isNaN(h.options.fixedOffset)?0:h.options.fixedOffset),e=c.offset(),f=h.$scrollableArea.scrollTop()+d,g=h.$scrollableArea.scrollLeft(),i=h.isWindowScrolling?f>e.top:d>e.top,j=(h.isWindowScrolling?f:0)<e.top+c.height()-h.$clonedHeader.height()-(h.isWindowScrolling?0:d);i&&j?(b=e.left-g+h.options.leftOffset,h.$originalHeader.css({position:"fixed","margin-top":h.options.marginTop,left:b,"z-index":3}),h.leftOffset=b,h.topOffset=d,h.$clonedHeader.css("display",""),h.isSticky||(h.isSticky=!0,h.updateWidth()),h.setPositionValues()):h.isSticky&&(h.$originalHeader.css("position","static"),h.$clonedHeader.css("display","none"),h.isSticky=!1,h.resetWidth(a("td,th",h.$clonedHeader),a("td,th",h.$originalHeader)))})},h.setPositionValues=function(){var a=h.$window.scrollTop(),b=h.$window.scrollLeft();!h.isSticky||0>a||a+h.$window.height()>h.$document.height()||0>b||b+h.$window.width()>h.$document.width()||h.$originalHeader.css({top:h.topOffset-(h.isWindowScrolling?0:a),left:h.leftOffset-(h.isWindowScrolling?0:b)})},h.updateWidth=function(){if(h.isSticky){h.$originalHeaderCells||(h.$originalHeaderCells=a("th,td",h.$originalHeader)),h.$clonedHeaderCells||(h.$clonedHeaderCells=a("th,td",h.$clonedHeader));var b=h.getWidth(h.$clonedHeaderCells);h.setWidth(b,h.$clonedHeaderCells,h.$originalHeaderCells),h.$originalHeader.css("width",h.$clonedHeader.width())}},h.getWidth=function(c){var d=[];return c.each(function(c){var e,f=a(this);if("border-box"===f.css("box-sizing"))e=f[0].getBoundingClientRect().width;else{var g=a("th",h.$originalHeader);if("collapse"===g.css("border-collapse"))if(b.getComputedStyle)e=parseFloat(b.getComputedStyle(this,null).width);else{var i=parseFloat(f.css("padding-left")),j=parseFloat(f.css("padding-right")),k=parseFloat(f.css("border-width"));e=f.outerWidth()-i-j-k}else e=f.width()}d[c]=e}),d},h.setWidth=function(a,b,c){b.each(function(b){var d=a[b];c.eq(b).css({"min-width":d,"max-width":d})})},h.resetWidth=function(b,c){b.each(function(b){var d=a(this);c.eq(b).css({"min-width":d.css("min-width"),"max-width":d.css("max-width")})})},h.setOptions=function(c){h.options=a.extend({},f,c),h.$scrollableArea=a(h.options.scrollableArea),h.isWindowScrolling=h.$scrollableArea[0]===b},h.updateOptions=function(a){h.setOptions(a),h.unbind(),h.bind(),h.updateWidth(),h.toggleHeaders()},h.init()}var d="stickyTableHeaders",e=0,f={fixedOffset:0,leftOffset:0,marginTop:0,scrollableArea:b};a.fn[d]=function(b){return this.each(function(){var e=a.data(this,"plugin_"+d);e?"string"==typeof b?e[b].apply(e):e.updateOptions(b):"destroy"!==b&&a.data(this,"plugin_"+d,new c(this,b))})}}(jQuery,window);
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<style> body {margin: 0; padding: 0;} #content, .content, #postamble, #preamble {max-width: 1000px; width: 92%; margin: 0 auto; padding: 0 8px;} @media (max-width: 700px) {#content, .content, #postamble, #preamble {width: 96%; padding: 0 4px;}} </style>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         displayAlign: "center",
@@ -251,9 +252,10 @@ if (typeof HS_STARTUP_FOLDED === 'undefined') {    var HS_STARTUP_FOLDED = false
 <div id="content" class="content">
 <h1 class="title">Jihyeug Jang's homepage</h1>
 
-<div id="outline-container-org585fffa" class="outline-2">
-<h2 id="org585fffa">Home</h2>
-<div class="outline-text-2" id="text-org585fffa">
+
+<div id="outline-container-org262fadd" class="outline-2">
+<h2 id="org262fadd">Home</h2>
+<div class="outline-text-2" id="text-org262fadd">
 <div style="display:flex; gap:24px; align-items:flex-start;">
   <div style="flex:1;">
     <p>
@@ -274,9 +276,9 @@ if (typeof HS_STARTUP_FOLDED === 'undefined') {    var HS_STARTUP_FOLDED = false
 </div>
 
 
-<div id="outline-container-orgfec38be" class="outline-3">
-<h3 id="orgfec38be">Research Interests</h3>
-<div class="outline-text-3" id="text-orgfec38be">
+<div id="outline-container-org011ccb2" class="outline-3">
+<h3 id="org011ccb2">Research Interests</h3>
+<div class="outline-text-3" id="text-org011ccb2">
 <p>
 Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </p>
@@ -291,13 +293,13 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </div>
 
 
-<div id="outline-container-org82fe9e2" class="outline-2">
-<h2 id="org82fe9e2">Papers</h2>
-<div class="outline-text-2" id="text-org82fe9e2">
+<div id="outline-container-org95b6f6c" class="outline-2">
+<h2 id="org95b6f6c">Papers</h2>
+<div class="outline-text-2" id="text-org95b6f6c">
 </div>
-<div id="outline-container-orgd46a538" class="outline-3">
-<h3 id="orgd46a538">Preprints</h3>
-<div class="outline-text-3" id="text-orgd46a538">
+<div id="outline-container-org70aa52d" class="outline-3">
+<h3 id="org70aa52d">Preprints</h3>
+<div class="outline-text-3" id="text-org70aa52d">
 <ul class="org-ul">
 <li>(with Jehanne Dousse) Andrews&#x2013;Gordon type identities with parity restrictions through particle motion
 <ul class="org-ul">
@@ -315,9 +317,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </div>
 </div>
 
-<div id="outline-container-org14d0952" class="outline-3">
-<h3 id="org14d0952">Published</h3>
-<div class="outline-text-3" id="text-org14d0952">
+<div id="outline-container-org114440e" class="outline-3">
+<h3 id="org114440e">Published</h3>
+<div class="outline-text-3" id="text-org114440e">
 <ul class="org-ul">
 <li>(with Jang Soo Kim, Jianping Pan, Joseph Pappe, Anne Schilling) Hook-valued tableau uncrowding and tableau switching
 <ul class="org-ul">
@@ -377,13 +379,13 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </div>
 
 
-<div id="outline-container-orgbec08c8" class="outline-2">
-<h2 id="orgbec08c8">Talks and posters</h2>
-<div class="outline-text-2" id="text-orgbec08c8">
+<div id="outline-container-org0fc9a93" class="outline-2">
+<h2 id="org0fc9a93">Talks and posters</h2>
+<div class="outline-text-2" id="text-org0fc9a93">
 </div>
-<div id="outline-container-orgf427104" class="outline-3">
-<h3 id="orgf427104">2026</h3>
-<div class="outline-text-3" id="text-orgf427104">
+<div id="outline-container-org0eb0ef7" class="outline-3">
+<h3 id="org0eb0ef7">2026</h3>
+<div class="outline-text-3" id="text-org0eb0ef7">
 <ul class="org-ul">
 <li>Refined canonical stable Grothendieck polynomials, <a href="https://indico.math.cnrs.fr/event/15923/">Séminaire Combinatoire et Théorie des Nombres ICJ</a>, Université Lyon 1, France, Mar 10, (2026)</li>
 <li>Grounded partitions of type \( A_1^{(1)} \) at levels \( 1 \) and \( 2 \), <a href="https://math.skku.edu/math/community/seminar.do?mode=view&amp;articleNo=211885&amp;article.offset=0&amp;articleLimit=10">Special seminar</a>, Sungkyunkwan University, Korea, Jan 20, (2026)</li>
@@ -391,9 +393,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc4bbcd5" class="outline-3">
-<h3 id="orgc4bbcd5">2025</h3>
-<div class="outline-text-3" id="text-orgc4bbcd5">
+<div id="outline-container-org26893dd" class="outline-3">
+<h3 id="org26893dd">2025</h3>
+<div class="outline-text-3" id="text-org26893dd">
 <ul class="org-ul">
 <li>Andrews&#x2013;Gordon and Stanton type identities: bijective and Bailey lemma approaches, <a href="https://www.mat.univie.ac.at/~slc/wpapers/s94.html">SLC 94</a>, Bad Boll, Germany, Sep 14-17, (2025)</li>
 <li>Andrews&#x2013;Gordon and Stanton type identities: bijective and Bailey lemma approaches, <a href="https://math.skku.edu/math/community/seminar.do?mode=view&amp;articleNo=204004&amp;article.offset=0&amp;articleLimit=10">Special seminar</a>, Sungkyunkwan University, Korea, Aug 1, (2025)</li>
@@ -401,9 +403,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </ul>
 </div>
 </div>
-<div id="outline-container-org5ecbff3" class="outline-3">
-<h3 id="org5ecbff3">2024</h3>
-<div class="outline-text-3" id="text-org5ecbff3">
+<div id="outline-container-org16478be" class="outline-3">
+<h3 id="org16478be">2024</h3>
+<div class="outline-text-3" id="text-org16478be">
 <ul class="org-ul">
 <li>Combinatorics of the orthogonal polynomials on the unit circle, <a href="http://events.kias.re.kr/h/CombinatoricsProbability/?pageNo=5480">Workshop on Combinatorics and Probability</a>, Korea, Jun 27-28, (2024)</li>
 <li>Combinatorial reciprocity for Riordan arrays, <a href="https://sites.google.com/view/csyr/1st?authuser=0">1st Combinatorics Seminar for Young Researchers</a>, Inha University, Korea, Jun 19, (2024)</li>
@@ -413,9 +415,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </ul>
 </div>
 </div>
-<div id="outline-container-org9b5ebc7" class="outline-3">
-<h3 id="org9b5ebc7">2023</h3>
-<div class="outline-text-3" id="text-org9b5ebc7">
+<div id="outline-container-org99786cf" class="outline-3">
+<h3 id="org99786cf">2023</h3>
+<div class="outline-text-3" id="text-org99786cf">
 <ul class="org-ul">
 <li>Refined canonical stable Grothendieck polynomials and their duals (poster), <a href="http://fpsac23.math.ucdavis.edu/">FPSAC 2023</a>, UC Davis, California, USA, Jul 17-21, (2023)</li>
 <li>Volumes of flow polytopes related to caracol graphs, <a href="https://dgeco.math.cnrs.fr/">Séminaire DGeCo</a>, Sorbonne Université, France, Apr 18, (2023)</li>
@@ -425,9 +427,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </ul>
 </div>
 </div>
-<div id="outline-container-org0ab1b26" class="outline-3">
-<h3 id="org0ab1b26">2022</h3>
-<div class="outline-text-3" id="text-org0ab1b26">
+<div id="outline-container-org032992e" class="outline-3">
+<h3 id="org032992e">2022</h3>
+<div class="outline-text-3" id="text-org032992e">
 <ul class="org-ul">
 <li>On sequences related to the pallet loading problem, <a href="http://events.kias.re.kr/h/combinatorics/?pageNo=4839">The 26th KIAS Workshop on Combinatorics</a>, Shilla Stay Haeundae, Korea, Dec 20-22, (2022)</li>
 <li>A combinatorial model for the transition matrix between the Specht and web bases, <a href="https://tscrim.github.io/pacs_en.html">Physical Algebra and Combinatorics Seminar</a>, Online, Aug 12, (2022)</li>
@@ -435,9 +437,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </ul>
 </div>
 </div>
-<div id="outline-container-org3d0514c" class="outline-3">
-<h3 id="org3d0514c">2021</h3>
-<div class="outline-text-3" id="text-org3d0514c">
+<div id="outline-container-orge58c418" class="outline-3">
+<h3 id="orge58c418">2021</h3>
+<div class="outline-text-3" id="text-orge58c418">
 <ul class="org-ul">
 <li>A combinatorial model for the transition matrix between the Specht and web bases, <a href="https://www.kias.re.kr/kias/activities/seminars/list.do?menuNo=404003&amp;eventTy=&amp;schoolsCd=C&amp;centrspgmsCd=&amp;pageIndex=1&amp;sdate=2021-12-15&amp;edate=2021-12-17&amp;mjrcdnm=&amp;searchCnd=1&amp;searchWord=">One-day workshop on web bases</a>, Online, Dec 16, (2021)</li>
 <li>Refined canonical stable Grothendieck polynomials and their duals, <a href="http://www.kkms.org/main/main">2021 Annual Meeting on the Kangwon-Kyungki Mathematical Society</a>, Korea, Jul 16, (2021)</li>
@@ -446,9 +448,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 </ul>
 </div>
 </div>
-<div id="outline-container-orge0152f2" class="outline-3">
-<h3 id="orge0152f2">2019</h3>
-<div class="outline-text-3" id="text-orge0152f2">
+<div id="outline-container-org243ac4e" class="outline-3">
+<h3 id="org243ac4e">2019</h3>
+<div class="outline-text-3" id="text-org243ac4e">
 <ul class="org-ul">
 <li>Computing volumes of flow polytopes using labeled Dyck paths, <a href="https://cw2019.combinatorics.kr/information">2019 Combinatorics Workshop</a>, Songdo, Incheon, Korea, Aug 13-15, (2019)</li>
 <li>Computing volumes of flow polytopes using labeled Dyck paths, <a href="http://www.kkms.org/main/main">2019 Annual Meeting on the Kangwon-Kyungki Mathematical Society</a>, Daegu, Korea, Jun 28-30, (2019)</li>

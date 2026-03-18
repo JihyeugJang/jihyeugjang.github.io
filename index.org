@@ -2,6 +2,8 @@
 #+SETUPFILE: /Users/jihyeug/Desktop/newbiemacs/nbm-user-settings/org-themes/src/bigblow_inline/bigblow_inline.theme
 #+OPTIONS: title:t author:nil date:t toc:nil num:nil timestamp:nil creator:nil
 #+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
+#+HTML_HEAD: <style> body {margin: 0; padding: 0;} #content, .content, #postamble, #preamble {max-width: 1000px; width: 92%; margin: 0 auto; padding: 0 8px;} @media (max-width: 700px) {#content, .content, #postamble, #preamble {width: 96%; padding: 0 4px;}} </style>
+
 
 * Home
 
