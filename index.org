@@ -4,11 +4,26 @@
 
 * Home
 
-I am currently a post-doctoral researcher at the University of Geneva, working with [[https://www.unige.ch/~doussej/][Jehanne Dousse]].
-I completed my Ph.D. at Sungkyunkwan University under the supervision of [[https://jangsookim.github.io/][Jang Soo Kim]].
+#+begin_export html
+<div style="display:flex; gap:24px; align-items:flex-start;">
+  <div style="flex:1;">
+    <p>
+      I am currently a post-doctoral researcher at the University of Geneva,
+      working with <a href="https://www.unige.ch/~doussej/">Jehanne Dousse</a>.
+      I completed my Ph.D. at Sungkyunkwan University under the supervision of
+      <a href="https://jangsookim.github.io/">Jang Soo Kim</a>.
+    </p>
+    <ul>
+      <li>Email: jihyeugjang at gmail dot com</li>
+      <li><a href="CV/CV.pdf">Curriculum Vitae</a></li>
+    </ul>
+  </div>
+  <div style="flex:0 0 auto;">
+    <img src="Figures/me1.JPG" style="width:150px; height:auto; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  </div>
+</div>
+#+end_export
 
-- Email: jihyeugjang at gmail dot com
-- [[file:CV/CV.pdf][Curriculum Vitae]]
 
 ** Research Interests
 Algebraic combinatorics and enumerative combinatorics, with a focus on:
@@ -16,6 +31,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 - Orthogonal polynomials
 - Partition theory
 - Riordan arrays
+
 
 * Papers
 ** Preprints
