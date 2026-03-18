@@ -1,6 +1,7 @@
 #+title: Jihyeug Jang's homepage
 #+SETUPFILE: /Users/jihyeug/Desktop/newbiemacs/nbm-user-settings/org-themes/src/bigblow_inline/bigblow_inline.theme
 #+OPTIONS: title:t author:nil date:t toc:nil num:nil timestamp:nil creator:nil
+#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
 
 * Home
 
