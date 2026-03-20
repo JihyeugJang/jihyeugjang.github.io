@@ -82,6 +82,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 
 * Talks and posters
 ** 2026
+- Grounded partitions, [[https://sites.google.com/view/cart-kias/][CART Seminar (KIAS, SKKU)]], Online, Mar 20, (2026)
 - Refined canonical stable Grothendieck polynomials, [[https://indico.math.cnrs.fr/event/15923/][Séminaire Combinatoire et Théorie des Nombres ICJ]], Université Lyon 1, France, Mar 10, (2026)
 - Grounded partitions of type \( A_1^{(1)} \) at levels \( 1 \) and \( 2 \), [[https://math.skku.edu/math/community/seminar.do?mode=view&articleNo=211885&article.offset=0&articleLimit=10][Special seminar]], Sungkyunkwan University, Korea, Jan 20, (2026)
 - Decompositions of integer powers via the Catalan and Motzkin arrays and odd-indexed Fibonacci numbers, [[https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/54444][Joint Mathematics Meetings 2026]], Washington, D.C., USA, Jan 4-7, (2026)
