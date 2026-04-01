@@ -65,7 +65,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
   - [[https://www.sciencedirect.com/science/article/pii/S0001870824001853?dgcid=author][Advances in Mathematics, (2024)]]
   - [[https://arxiv.org/abs/2104.04251][arXiv:2104.04251]]
   - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2023/31.html][FPSAC2023]]
-- (with Byung-Hak Hwang, Jaeseong Oh) A combinatorial model for the transition matrix between the Specht and web bases
+- (with Byung-Hak Hwang, Jaeseong Oh) A combinatorial model for the transition matrix between the Specht and \( SL_2 \)-web bases
   - [[https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/combinatorial-model-for-the-transition-matrix-between-the-specht-and-operatorname-sl2web-bases/1E5B0654E82442C936CD9DB00D333715][Forum of Mathematics, Sigma, (2023)]]
   - [[https://arxiv.org/abs/2110.08790][arXiv:2110.08790]]
   - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/34.html][FPSAC2022]]
