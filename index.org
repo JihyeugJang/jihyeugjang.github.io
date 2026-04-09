@@ -42,6 +42,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
   - [[https://arxiv.org/abs/2603.05300][arXiv:2603.05300]]
 - (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches
   - [[https://arxiv.org/abs/2507.13239v1][arXiv:2507.13239v1]]
+  - to appear in FPSAC 2026
 - (with Benedek Dombos) Grounded partitions of type $A^{(1)}_1$ at levels 1 and 2: bijections, affine crystal graphs, and partition identities
   - [[https://arxiv.org/abs/2508.02664][arXiv:2508.02664]]
 
@@ -81,6 +82,9 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 
 
 * Talks and posters
+** Upcoming
+- Particle motion methods for Andrews–Gordon and Stanton type identities (poster), [[https://sites.math.washington.edu/fpsac2026/][FPSAC 2026]], University of Washington, USA, July 13-17, (2026)
+- TBA, Combinatorics/Partition Seminar, Penn State University, April 28, (2026)
 ** 2026
 - Grounded partitions, [[https://sites.google.com/view/cart-kias/][CART Seminar (KIAS, SKKU)]], Online, Mar 20, (2026)
 - Refined canonical stable Grothendieck polynomials, [[https://indico.math.cnrs.fr/event/15923/][Séminaire Combinatoire et Théorie des Nombres ICJ]], Université Lyon 1, France, Mar 10, (2026)
