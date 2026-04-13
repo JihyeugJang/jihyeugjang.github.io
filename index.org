@@ -60,7 +60,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 - (with Louis W. Shapiro, Minho Song) Combinatorial Reciprocity for Riordan Arrays
   - [[https://www.sciencedirect.com/science/article/pii/S0024379525000527?dgcid=coauthor][Linear Algebra and its Applications, (2025)]]
 - (with Mark Kempton, Sooyeong Kim, Adam Knudson, Neal Madras, Minho Song) Kemeny's constant and enumerating Braess edges in trees
-  - [[https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2435403?scroll=top&needAccess=true][Linear and Multilinear Algebra, (2024)]]
+  - [[https://www.tandfonline.com/doi/full/10.1080/03081087.2024.2435403?scroll=top&needAccess=true][Linear and Multilinear Algebra, (2025)]]
   - [[https://arxiv.org/abs/2309.02977][arXiv:2309.02977]]
 - (with Byung-Hak Hwang, Jang Soo Kim, Minho Song, U-Keun Song) Refined canonical stable Grothendieck polynomials and their duals, Part 1
   - [[https://www.sciencedirect.com/science/article/pii/S0001870824001853?dgcid=author][Advances in Mathematics, (2024)]]
