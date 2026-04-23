@@ -84,7 +84,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 * Talks and posters
 ** Upcoming
 - Particle motion methods for Andrews–Gordon and Stanton type identities (poster), [[https://sites.math.washington.edu/fpsac2026/][FPSAC 2026]], University of Washington, USA, July 13-17, (2026)
-- TBA, Combinatorics/Partition Seminar, Penn State University, April 28, (2026)
+- Particle motion, [[https://math-cal.cloud.science.psu.edu/events/84321][Combinatorics/Partition Seminar]], Penn State University, April 28, (2026)
 ** 2026
 - Grounded partitions, [[https://sites.google.com/view/cart-kias/][CART Seminar (KIAS, SKKU)]], Online, Mar 20, (2026)
 - Refined canonical stable Grothendieck polynomials, [[https://indico.math.cnrs.fr/event/15923/][Séminaire Combinatoire et Théorie des Nombres ICJ]], Université Lyon 1, France, Mar 10, (2026)
