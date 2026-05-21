@@ -38,6 +38,8 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 
 * Papers
 ** Preprints
+- (with Sylvie Corteel, Baptiste Rognerud) The extra slow Tamari lattice
+  - [[https://arxiv.org/abs/2605.20903][arXiv:2605.20903]]
 - (with Jehanne Dousse) Andrews--Gordon type identities with parity restrictions through particle motion
   - [[https://arxiv.org/abs/2603.05300][arXiv:2603.05300]]
 - (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches
