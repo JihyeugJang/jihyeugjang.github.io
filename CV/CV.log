@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.24)  31 AUG 2026 10:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.24)  23 SEP 2026 09:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -390,7 +390,7 @@ Here is how much of TeX's memory you used:
  38936 multiletter control sequences out of 15000+600000
  660206 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,7n,79p,362b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,7n,79p,452b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/type1/public/fp
 l/fplrc8a.pfb></Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/type1/public
@@ -398,10 +398,10 @@ l/fplrc8a.pfb></Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/type1/public
 e1/urw/palatino/uplb8a.pfb></Users/jihyeug/.local/texlive/2026/texmf-dist/fonts
 /type1/urw/palatino/uplr8a.pfb></Users/jihyeug/.local/texlive/2026/texmf-dist/f
 onts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (4 pages, 100993 bytes).
+Output written on CV.pdf (4 pages, 101496 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788140024.91339 "CV.tex" "CV.pdf" "CV" 1788140025.43791 0
+["pdflatex"] 1790124303.05242 "CV.tex" "CV.pdf" "CV" 1790124303.59642 0
   "/Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/Users/jihyeug/.local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -92,9 +92,9 @@
   "/Users/jihyeug/.local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1784902906 5573060 742cdee52c0503dda2f69bbb4bd566f0 ""
   "/Users/jihyeug/.local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1784902977 3656653 7cabc523af0f1c2ed55019b49c293ae1 ""
   "/Users/jihyeug/.local/texlive/2026/texmf.cnf" 1784902900.26116 618 071f8a3353a7f2e18e0e97dd4a9eb201 ""
-  "CV.aux" 1788140025.39146 207 7ec37503182930eef57ed28a1e5a4a80 "pdflatex"
-  "CV.out" 1788140025.20526 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1788140024.79549 13831 32471f4f6a3e9b6247e17dd8390b6342 ""
+  "CV.aux" 1790124303.54713 207 25f80a1c7a2910d26d46ebc1be64ea9d "pdflatex"
+  "CV.out" 1790124303.35026 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV.tex" 1790124302.92878 14254 24def4cfc0b10d12ddfc422cd3149a0d ""
   (generated)
   "CV.aux"
   "CV.log"

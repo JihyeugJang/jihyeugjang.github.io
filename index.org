@@ -13,14 +13,14 @@
 <div style="display:flex; gap:24px; align-items:flex-start;">
 <div style="flex:1;">
   <p>
-    I am currently an Assistant Professor at Pusan National University.
+    I am currently an Assistant Professor at <a href="https://math.pusan.ac.kr/math/11206/subview.do">Pusan National University</a>.
     Previously, I was a postdoctoral researcher at the University of Geneva,
     where I worked with <a href="https://www.unige.ch/~doussej/">Jehanne Dousse</a>.
     I received my Ph.D. from Sungkyunkwan University under the supervision of
     <a href="https://jangsookim.github.io/">Jang Soo Kim</a>.
   </p>
   <ul>
-    <li>Email: jihyeugjang at gmail dot com</li>
+    <li>Email: jihyeugjang at pusan.ac.kr</li>
     <li><a href="CV/CV.pdf">Curriculum Vitae</a></li>
   </ul>
 </div>
@@ -89,6 +89,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 * Talks and posters
 ** Upcoming
 ** 2026
+- Integer partitions and their identities, [[https://math.pusan.ac.kr/math/11256/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbWF0aCUyRjE0MDElMkYxNDYyNzE1JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2ZmluZENsU2VxJTNEJTI2ZmluZE9wbndyZCUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZwYXNzd29yZCUzRCUyNg%3D%3D][PNU Colloquium]], Pusan National University, Busan, Korea, Sep 17, (2026)
 - Discriminants of orthogonal polynomials, [[https://opsfa18.com/][18th Orthogonal Polynomials, Special Functions and Applications (OPSFA18)]], Doshisha University, Kyoto, Japan, Aug 17-21, (2026)
 - Particle motion methods for Andrews–Gordon and Stanton type identities (poster), [[https://sites.math.washington.edu/fpsac2026/][FPSAC 2026]], University of Washington, USA, July 13-17, (2026)
 - Particle motion, [[https://math-cal.cloud.science.psu.edu/events/84321][Combinatorics/Partition Seminar (Penn State University)]], Online, April 28, (2026)
