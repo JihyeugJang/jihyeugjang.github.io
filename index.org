@@ -41,6 +41,8 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 
 * Papers
 ** Preprints
+- (with Benedek Dombos) \( A_1^{(1)} \)-Grounded partitions at levels \( 1 \) and \( 2 \), Part II: affine crystal structure
+  - [[https://arxiv.org/abs/2611.17443][arXiv:2611.17443]]
 - (with Sylvie Corteel, Baptiste Rognerud) The extra slow Tamari lattice
   - [[https://arxiv.org/abs/2605.20903][arXiv:2605.20903]]
 - (with Jehanne Dousse) Andrews--Gordon type identities with parity restrictions through particle motion
@@ -48,7 +50,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 - (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches
   - [[https://arxiv.org/abs/2507.13239v1][arXiv:2507.13239v1]]
   - to appear in FPSAC 2026
-- (with Benedek Dombos) Grounded partitions of type $A^{(1)}_1$ at levels 1 and 2: bijections, affine crystal graphs, and partition identities
+- (with Benedek Dombos) \( A_1^{(1)} \)-Grounded partitions at levels \( 1 \) and \( 2 \), Part I: bijections
   - [[https://arxiv.org/abs/2508.02664][arXiv:2508.02664]]
 
 ** Published
