@@ -41,6 +41,8 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
 
 * Papers
 ** Preprints
+- (with Mourad E. H. Ismail, Jang Soo Kim, Dennis Stanton) Discriminants and resultants of orthogonal polynomials
+  - [[https://arxiv.org/abs/2611.20962][arXiv:2611.20962]]
 - (with Benedek Dombos) \( A_1^{(1)} \)-Grounded partitions at levels \( 1 \) and \( 2 \), Part II: affine crystal structure
   - [[https://arxiv.org/abs/2611.17443][arXiv:2611.17443]]
 - (with Sylvie Corteel, Baptiste Rognerud) The extra slow Tamari lattice
@@ -49,7 +51,7 @@ Algebraic combinatorics and enumerative combinatorics, with a focus on:
   - [[https://arxiv.org/abs/2603.05300][arXiv:2603.05300]]
 - (with Jehanne Dousse, Frédéric Jouhet) Andrews--Gordon and Stanton type identities: bijective and Bailey lemma approaches
   - [[https://arxiv.org/abs/2507.13239v1][arXiv:2507.13239v1]]
-  - to appear in FPSAC 2026
+  - [[https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2026/67.html][FPSAC2026]]
 - (with Benedek Dombos) \( A_1^{(1)} \)-Grounded partitions at levels \( 1 \) and \( 2 \), Part I: bijections
   - [[https://arxiv.org/abs/2508.02664][arXiv:2508.02664]]
 

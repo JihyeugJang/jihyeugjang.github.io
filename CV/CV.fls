@@ -156,7 +156,6 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplb9d.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplb9d.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplri9d.tfm
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplri9d.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
@@ -191,6 +190,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplri9d.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/palatino/pplri9d.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/palatino/pplrij8r.tfm
 INPUT CV.aux
